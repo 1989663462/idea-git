@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("3");
         System.out.println("444444444");
         System.out.println("master test");
+        System.out.println("branch-1-test");
     }
 }
